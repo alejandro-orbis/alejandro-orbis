@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hola, soy Alejandro Peralta
 
-<!--
-**alejandro-orbis/alejandro-orbis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Especialista en Automatización de Procesos
 
-Here are some ideas to get you started:
+- 🤖 Automatización con n8n, Make, Python
+- 📊 Procesamiento de datos con Pandas
+- 🔗 Integraciones de APIs
+- ☁️ Despliegues en VPS y Cloudflare
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Mis proyectos
+
+- [Lead Generation Agent](https://github.com/alejandro-orbis/n8n-lead-generation-agent) - B2B lead generation con n8n
+- [Accounting Closing Tool](https://github.com/alejandro-orbis/Accounting-Closing-Automation-Tool) - Automatización contable con Python
+
+## 📫 Contacto
+
+- LinkedIn: linkedin.com/in/alejandro-orbis
+- Email: alejandro@orbisautomations.com
