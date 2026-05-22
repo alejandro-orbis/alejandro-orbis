@@ -17,4 +17,4 @@
 ## 📫 Contacto
 
 - LinkedIn: linkedin.com/in/alejandro-orbis
-- Email: alejandro@orbisautomations.com
+- Email: [Contacto](mailto:alex_noya@hotmail.com)
