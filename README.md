@@ -9,10 +9,11 @@
 
 ## 📂 Mis proyectos
 
-- [Lead Generation Agent](https://github.com/alejandro-orbis/n8n-lead-generation-agent) - B2B lead generation con n8n
-- [Accounting Closing Tool](https://github.com/alejandro-orbis/Accounting-Closing-Automation-Tool) - Automatización contable con Python
-- [Omnichannel AI Scheduler](https://github.com/alejandro-orbis/Omnichannel-AI-Scheduler) - Sistema omnicanal con IA para clínicas estéticas usando n8n, Gemini, Meta APIs y GoHighLevel.
-- [Debt Collection Inventory AI](https://github.com/alejandro-orbis/Debt-Collection-Inventory-AI) - Automatización de recobros y predicción de inventario con IA. flujos multi-canal flujos multi-canal e integración con HubSpot.
+- [AI Forest Assistant](https://github.com/alejandro-orbis/AI-Forest-Assistant) - Plataforma de gestión forestal con IA, geolocalización, alertas meteorológicas, PostgreSQL/PostGIS y automatización multi-flujo con n8n.
+- [Omnichannel AI Scheduler](https://github.com/alejandro-orbis/Omnichannel-AI-Scheduler) - Sistema omnicanal con IA para clínicas estéticas usando n8n, Gemini AI, Meta APIs y GoHighLevel.
+- [Debt Collection Inventory AI](https://github.com/alejandro-orbis/Debt-Collection-Inventory-AI) - Plataforma de automatización de recobros e inventario con IA, workflows multi-canal e integración con HubSpot.
+- [Lead Generation Agent](https://github.com/alejandro-orbis/n8n-lead-generation-agent) - Agente automatizado de generación de leads B2B usando n8n y enriquecimiento de datos.
+- [Accounting Closing Tool](https://github.com/alejandro-orbis/Accounting-Closing-Automation-Tool) - Herramienta de automatización contable y cierre financiero desarrollada en Python.
 
 ## 📫 Contacto
 
