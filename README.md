@@ -1,13 +1,20 @@
 # 👋 Hola, soy Alejandro Peralta
 
-## 🔧 Especialista en Automatización de Procesos
+## AI Automation Engineer
 
-- 🤖 Automatización con n8n, Make, Python
-- 📊 Procesamiento de datos con Pandas
-- 🔗 Integraciones de APIs
-- ☁️ Despliegues en VPS y Cloudflare
+Especializado en automatización avanzada con n8n, Make y Python.
 
-## 📂 Mis proyectos
+### Experiencia en
+
+- Sistemas conversacionales con IA
+- Automatización multi-canal
+- Integración de APIs
+- PostgreSQL y PostGIS
+- Procesamiento de datos con Pandas
+- Despliegues en VPS, Docker y Cloudflare
+- Workflows orientados a producción
+
+## 📂 Proyectos
 
 - [AI Forest Assistant](https://github.com/alejandro-orbis/AI-Forest-Assistant) - Plataforma de gestión forestal con IA, geolocalización, alertas meteorológicas, PostgreSQL/PostGIS y automatización multi-flujo con n8n.
 - [Omnichannel AI Scheduler](https://github.com/alejandro-orbis/Omnichannel-AI-Scheduler) - Sistema omnicanal con IA para clínicas estéticas usando n8n, Gemini AI, Meta APIs y GoHighLevel.
