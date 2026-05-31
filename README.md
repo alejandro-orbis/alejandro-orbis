@@ -1,28 +1,108 @@
-# 👋 Hola, soy Alejandro Peralta
+# 👋 Hi, I'm Alejandro Peralta
 
-## AI Automation Engineer
+## AI Automation Engineer & AI Systems Builder
 
-Especializado en automatización avanzada con n8n, Make y Python.
+I design and build AI-powered systems that combine workflow automation, conversational AI, scientific reasoning, data processing and modern web applications.
 
-### Experiencia en
+### 🔧 Specializations
 
-- Sistemas conversacionales con IA
-- Automatización multi-canal
-- Integración de APIs
-- PostgreSQL y PostGIS
-- Procesamiento de datos con Pandas
-- Despliegues en VPS, Docker y Cloudflare
-- Workflows orientados a producción
+* AI-powered automation systems
+* Conversational AI and agents
+* Multi-channel workflows
+* API integrations
+* PostgreSQL & PostGIS
+* Python data processing
+* React dashboards
+* Docker & VPS deployments
+* Production-ready workflow architectures
 
-## 📂 Proyectos
+---
 
-- [AI Forest Assistant](https://github.com/alejandro-orbis/AI-Forest-Assistant) - Plataforma de gestión forestal con IA, geolocalización, alertas meteorológicas, PostgreSQL/PostGIS y automatización multi-flujo con n8n.
-- [Omnichannel AI Scheduler](https://github.com/alejandro-orbis/Omnichannel-AI-Scheduler) - Sistema omnicanal con IA para clínicas estéticas usando n8n, Gemini AI, Meta APIs y GoHighLevel.
-- [Debt Collection Inventory AI](https://github.com/alejandro-orbis/Debt-Collection-Inventory-AI) - Plataforma de automatización de recobros e inventario con IA, workflows multi-canal e integración con HubSpot.
-- [Lead Generation Agent](https://github.com/alejandro-orbis/n8n-lead-generation-agent) - Agente automatizado de generación de leads B2B usando n8n y enriquecimiento de datos.
-- [Accounting Closing Tool](https://github.com/alejandro-orbis/Accounting-Closing-Automation-Tool) - Herramienta de automatización contable y cierre financiero desarrollada en Python.
+## 🚀 Featured Projects
 
-## 📫 Contacto
+### 🧬 EvidenceCheck AI
 
-- LinkedIn: linkedin.com/in/alejandro-orbis
-- Email: [Contacto](mailto:alex_noya@hotmail.com)
+Biomedical evidence analysis platform that retrieves scientific literature, evaluates evidence quality, detects contradictions, assesses causal signals and generates structured evidence-based verdicts.
+
+**Tech:** Claude · PubMed · PostgreSQL · React · n8n
+
+🔗 https://github.com/alejandro-orbis/EvidenceCheck-AI
+
+---
+
+### 🌲 AI Forest Assistant
+
+Forest management platform with AI-powered incident reporting, geolocation, weather alerts, PostgreSQL/PostGIS and multi-workflow automation.
+
+**Tech:** Gemini · PostgreSQL/PostGIS · WhatsApp · n8n
+
+🔗 https://github.com/alejandro-orbis/AI-Forest-Assistant
+
+---
+
+### 📅 Omnichannel AI Scheduler
+
+Omnichannel appointment scheduling platform for aesthetic clinics integrating WhatsApp, Instagram, Facebook Messenger, Google Calendar and CRM systems.
+
+**Tech:** Gemini · Meta APIs · GoHighLevel · Google Calendar · n8n
+
+🔗 https://github.com/alejandro-orbis/Omnichannel-AI-Scheduler
+
+---
+
+### 💰 Debt Collection & Inventory AI
+
+AI-assisted debt collection and inventory automation platform with multi-channel workflows and CRM integration.
+
+**Tech:** HubSpot · AI · n8n
+
+🔗 https://github.com/alejandro-orbis/Debt-Collection-Inventory-AI
+
+---
+
+### 🧾 Accounting Closing Automation Tool
+Python-based accounting automation tool designed to streamline financial closing tasks, data validation and reporting workflows.
+
+**Tech:** Python · Pandas · Excel Automation
+
+🔗 https://github.com/alejandro-orbis/Accounting-Closing-Automation-Tool
+
+---
+
+## 🛠️ Technologies
+
+**Automation**
+
+* n8n
+* Make
+
+**AI**
+
+* Claude
+* Gemini
+* OpenAI APIs
+
+**Frontend**
+
+* React
+* Vite
+
+**Backend & Data**
+
+* PostgreSQL
+* PostGIS
+* Python
+* Pandas
+
+**Infrastructure**
+
+* Docker
+* VPS
+* Cloudflare
+
+---
+
+## 📫 Contact
+
+* LinkedIn: linkedin.com/in/alejandro-orbis
+* Email: [alex_noya@hotmail.com](mailto:alex_noya@hotmail.com)
