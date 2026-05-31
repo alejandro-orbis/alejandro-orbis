@@ -105,4 +105,4 @@ Python-based accounting automation tool designed to streamline financial closing
 ## 📫 Contact
 
 * LinkedIn: linkedin.com/in/alejandro-orbis
-* Email: [alex_noya@hotmail.com](mailto:alex_noya@hotmail.com)
+* Email: [Contact](mailto:alex_noya@hotmail.com)
