@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Alejandro Peralta
 
-## AI Automation Engineer & AI Systems Builder
+## AI Automation Engineer | AI Systems Builder
 
-I design and build AI-powered systems that combine workflow automation, conversational AI, scientific reasoning, data processing and modern web applications.
+I design and build AI-powered systems that combine automation, AI agents, scientific reasoning, data processing and modern web applications.
 
 ### 🔧 Specializations
 
@@ -24,7 +24,7 @@ I design and build AI-powered systems that combine workflow automation, conversa
 
 Biomedical evidence analysis platform that retrieves scientific literature, evaluates evidence quality, detects contradictions, assesses causal signals and generates structured evidence-based verdicts.
 
-**Tech:** Claude · PubMed · PostgreSQL · React · n8n
+**Tech:** Google Gemini · PubMed · PostgreSQL · React · FastAPI · n8n
 
 🔗 https://github.com/alejandro-orbis/EvidenceCheck-AI
 
@@ -54,7 +54,7 @@ Omnichannel appointment scheduling platform for aesthetic clinics integrating Wh
 
 AI-assisted debt collection and inventory automation platform with multi-channel workflows and CRM integration.
 
-**Tech:** HubSpot · AI · n8n
+**Tech:** HubSpot · AI Agents · Multi-channel Workflows · n8n
 
 🔗 https://github.com/alejandro-orbis/Debt-Collection-Inventory-AI
 
@@ -85,14 +85,17 @@ Python-based accounting automation tool designed to streamline financial closing
 **Frontend**
 
 * React
+* TypeScript
 * Vite
 
 **Backend & Data**
 
+* FastAPI
 * PostgreSQL
 * PostGIS
 * Python
 * Pandas
+* REST APIs
 
 **Infrastructure**
 
